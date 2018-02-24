@@ -1,6 +1,6 @@
 #!/bin/bash
 
-BASEDIR=/home/pi/Desktop/eyeLock
+BASEDIR=/home/pi/Desktop/eyeLock/
 SUBDOMAIN=eyelock # For use with custom ngrok subdomains
 echo "Starting"
 echo "----------$(date)----------" >> ${BASEDIR}HacksterEyeLock2/pythonlogs.log
